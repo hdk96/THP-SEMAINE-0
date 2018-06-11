@@ -1,1 +1,1 @@
-Ceci est mon bettermotherfuckingwebsite avec JS
+Lien vers l'exercice du mercredi => https://hdk96.github.io/bettermotherfuckingwebsite.html
