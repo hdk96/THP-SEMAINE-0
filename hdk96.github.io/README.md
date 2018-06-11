@@ -1,0 +1,1 @@
+Lien vers l'exercice du mercredi => https://hdk96.github.io/bettermotherfuckingwebsite.html
