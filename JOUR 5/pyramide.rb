@@ -16,6 +16,5 @@ for i in 1..number
     
     number -=1
     puts ""
-    
-    
+
 end
