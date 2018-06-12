@@ -9,7 +9,7 @@ puts "Voici la pyramide :"
 for i in 1..number
 
     print " " * number
-    for j in 1..i
+    for i in 1..i
     
         print "#"
        
