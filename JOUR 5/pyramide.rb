@@ -1,20 +1,11 @@
-puts "Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu min: 1 max:25 "
-
+puts "Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?"
 print ">"
-
-number = gets.chomp.to_i
-
+user_number = gets.chomp.to_i
 puts "Voici la pyramide :"
+for i in 1..user_number
 
-for i in 1..number 
-
-    print " " * number
-    for i in 1..i
+    puts " " *  user_number + "#" * i
     
-        print "#"
-    end
-    
-    number -=1
-    puts ""
+    user_number -=1
 
 end
